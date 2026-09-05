@@ -1,7 +1,7 @@
 # AI Contribution Log – SLE-1
 
-**PRN:** YOUR PRN
-**Name:** YOUR NAME
+**PRN:** 26UAM306
+**Name:** Aishwarya Sanjay Vibhute
 **Date:** 05/09/2026
 
 ## 1. AI Tools Used
